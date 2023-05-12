@@ -1,0 +1,22 @@
+.Parrafo{
+    margin: 1rem;
+    font-size: 150%;
+    color:red;
+}
+@media screen and (max-width: 1024px){
+    .caja-principal{
+        flex-direction: column;
+    }
+}
+@media screen and (min-width: 1024px){
+    .caja1{
+      width: 50vw;  
+    }
+    .caja2{
+      width: 50vw;   
+    }
+}
+.caja-principal{
+    display: flex;
+    justify-content: center;
+}

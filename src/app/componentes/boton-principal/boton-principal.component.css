@@ -1,0 +1,14 @@
+.Box-Boton{
+    margin: 20px; 
+}
+.Boton{background-color: darkgoldenrod;
+    padding: 20px 40px;
+    font-size: 40px;
+    display: flex;
+    justify-content:center;
+    text-decoration: none;
+}
+.text-buttom{
+    font-weight: 600;
+    color: rgb(235, 25, 10);
+}
